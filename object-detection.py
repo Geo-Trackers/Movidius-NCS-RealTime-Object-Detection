@@ -1,6 +1,12 @@
 # This has been referenced from www.pyimagesearch.com, and the credit goes to Adrian Rosebrock.
+# This script performs object detection on Raspberry Pi 3 using Movidius Neural Compute Stick. 
+# For the object detection,we applied MobileNet neural network 
+# and Single Shot Multibox Detector as our object detection algorithm. 
 
-# import the necessary packages
+# Example Usage:
+# python object-detection.py --graph graph --display 1
+
+# import the necessary packages as below:
 from mvnc import mvncapi as mvnc
 from imutils.video import VideoStream
 from imutils.video import FPS
