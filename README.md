@@ -1,6 +1,9 @@
 # Movidius-NCS-RealTime-Object-Detection
 This repository contains necessary python scripts, models for enabling real-time object detection on Raspberry Pi using Movidius Neural Compute Stick.
 
+![img_20180715_105500_hdr](https://user-images.githubusercontent.com/7304644/44517484-8e4f0680-a6e7-11e8-9d5a-d0d29223626e.jpg)
+
+
 
 
 
