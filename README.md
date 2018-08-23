@@ -13,9 +13,9 @@ To display objects above the threshold 50%, we could specify --confidence 0.5 as
  python object-detection.py --graph graph --confidence 0.5 --display 1
 
 
+![img_20180715_105500_hdr](https://user-images.githubusercontent.com/7304644/44522397-1dfbb180-a6f6-11e8-9cd3-ad735746c7c5.jpg)
 
 
-![](https://user-images.githubusercontent.com/7304644/44517484-8e4f0680-a6e7-11e8-9d5a-d0d29223626e.jpg,width="545")
 
 
 
